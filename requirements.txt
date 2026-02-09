@@ -1,10 +1,9 @@
 pip
-setuptools
+setuptools==68.2.2
 wheel
 
 Flask==3.0.0
 Werkzeug==3.0.1
-
 numpy==1.24.4
 Pillow==10.2.0
 
